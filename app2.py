@@ -1,2 +1,2 @@
 print('hello python')
-print('HELLO')
+print('HELLO JAVA')
