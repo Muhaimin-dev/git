@@ -13,4 +13,4 @@ print("added a new line from vs-code")
 
 print("adding a new line from github")
 
-print("2nd attempt to understand merge conflict")
+print("2nd attempt to understand merge conflict from github")
