@@ -5,3 +5,5 @@ print('learning about staging')
 print("understanding staging working")
 
 print("hello python")
+
+print(2+2)
