@@ -6,4 +6,4 @@ print("understanding staging working")
 
 print("hello python")
 
-print(2+2)
+print(2+2=4)
