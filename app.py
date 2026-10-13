@@ -7,3 +7,4 @@ print("understanding staging working")
 print("hello python")
 
 print("local version: two plus two is four")
+print(2+2=4)
