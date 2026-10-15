@@ -1,21 +1,12 @@
-print('hello world')
-print("learning about staging and commiting")
-print('learning about staging')
-
-print("understanding staging working")
-
-print("hello python")
-
-print("local version: two plus two is four")
-print(2+2=4)
-print("added a new line from vs-code")
-
-
-print("adding a new line from github")
-
-
-
-
-
-print("2nd attempt to understand merge conflict from vs-code")
-print("2nd attempt to understand merge conflict from github")
+# Line 1: Header
+print("--- START OF FILE ---")
+# Lines 3-10: Stable anchor code that we will NEVER touch
+print("Anchor Line A")
+print("Anchor Line B")
+print("Anchor Line C")
+print("Anchor Line D")
+print("Anchor Line E")
+print("Anchor Line F")
+print("Anchor Line G")
+# Line 11: Footer
+print("--- END OF FILE ---")
