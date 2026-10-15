@@ -1,5 +1,6 @@
 # Line 1: Header
 print("--- START OF FILE ---")
+print("GitHub changed the TOP area")
 # Lines 3-10: Stable anchor code that we will NEVER touch
 print("Anchor Line A")
 print("Anchor Line B")
