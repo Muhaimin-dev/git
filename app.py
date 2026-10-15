@@ -9,4 +9,5 @@ print("Anchor Line E")
 print("Anchor Line F")
 print("Anchor Line G")
 # Line 11: Footer
+print("VS Code changed the BOTTOM area")
 print("--- END OF FILE ---")
